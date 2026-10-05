@@ -5,16 +5,34 @@
   <img src="https://cdn.simpleicons.org/roblox/ffffff" width="100">
 </p>
 
+Um painel simples para gerenciamento de experiências do Roblox usando Node.js.
+
 ## 📥 Instalação
 
-1. Instale o Node.js.
+### 🟢 Node.js
 
-2. Baixe o projeto.
+Instale o Node.js:
 
-3. Execute:
+```bash
+node --version
+```
 
-`node painel.js`
+### ▶️ Executar
 
-4. Abra:
+```bash
+node "test painel.js"
+```
 
-`http://localhost:3000`
+### 🌐 Acessar
+
+Abra no navegador:
+
+```text
+http://localhost:3000
+```
+
+### 🎮 Roblox
+
+Conecte sua conta do Roblox pelo painel.
+
+⚠️ Nunca compartilhe seu `.ROBLOSECURITY`.
